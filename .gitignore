@@ -1,3 +1,5 @@
 *.meta
 Library/
 Temp/
+BUILDS/
+obj/
